@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Muhammed Can Küçükaslan.  
+I'm a senior  CS student at Bilkent University (Ankara, Turkey) interested in  Parallel Computing, Distributed Systems, and Big Data.
+
+See some of the projects I contributed below:
 
 <!--
 **Kucukaslan/Kucukaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
