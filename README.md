@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Muhammed Can Küçükaslan.  
 
-I'm a senior CS student at Bilkent University (Ankara, Turkey). I'm also majoring in Math with Double Major Program.
+I'm a CS (& Math with Double Major Program) graduate from Bilkent University (Ankara, Turkey).
 
 I’m particularly interested in doing "engineering", that is to say building reliable systems that use resources as efficiently as possible.
 This aligns with the main goals of fields like Backend Engineering, Big Data Engineering (?), Parallel Computing, Distributed Systems etc.  
